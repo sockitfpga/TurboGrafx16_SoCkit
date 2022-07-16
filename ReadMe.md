@@ -1,4 +1,10 @@
-# [TurboGrafx 16 / PC Engine](https://en.wikipedia.org/wiki/TurboGrafx-16) for [MiSTer Platform](https://github.com/MiSTer-devel/Main_MiSTer/wiki) 
+# [TurboGrafx 16 / PC Engine](https://en.wikipedia.org/wiki/TurboGrafx-16) for [SoCkit (MiSTer) Platform](https://github.com/sockitfpga/MiSTer_SoCkit) 
+
+
+
+Ported by Noemí and Somhic from https://github.com/MiSTer-devel/TurboGrafx16_MiSTer
+
+Follows original README.
 
 ### This is the port of Gregory Estrade's [FPGAPCE](https://github.com/Torlus/FPGAPCE)
 
